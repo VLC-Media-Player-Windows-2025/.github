@@ -61,7 +61,7 @@
 ![VLC Playback Interface](https://i.sstatic.net/J99I1.png)  
 *Main playback interface on Windows.*
 
-![Audio Equalizer Panel](https://www.lifewire.com/thmb/n03y8D1567c6vvqxCLPLU2gsAWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VLCEQsliders-0756df56516246ac9a7d4dcb44756499.jpg)  
+![Audio Equalizer Panel](https://vlchelp.com/wp-content/uploads/2017/10/audio-effects.png)  
 *Customize audio settings.*
 
 
